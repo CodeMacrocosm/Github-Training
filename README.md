@@ -1,113 +1,164 @@
-# Hello CodeCosmers
 
-The **Hello World** project is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub!
+# ✨"GitHub Training: ✨CodeCosmers – Brilliance Meets Collaboration! 🚀💻✨"
 
-**You’ll learn how to:**
 
-- Create and use a repository
-- Start and manage a new branch
-- Make changes to a file and push them to GitHub as commits
-- Open and merge a pull request
+🌟🌟🌟🌟
 
-## What is GitHub?
+[![GitHub stars](https://img.shields.io/github/stars/CodeMacrocosm/Github-Training?style=flat-square)](https://github.com/CodeMacrocosm/Git-Training/stargazers)
 
-GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+[![GitHub forks](https://img.shields.io/github/forks/CodeMacrocosm/Github-Training?style=flat-square)](https://github.com/CodeMacrocosm/Git-Training/network)
 
-This tutorial teaches you GitHub essentials like _repositories_, _branches_, _commits_, and _Pull Requests_. You’ll create your own Hello CodeCosmers repository and learn GitHub’s Pull Request workflow, a popular way to create and review code.
+🌟🌟🌟🌟
 
-#### No coding necessary
 
-To complete this tutorial, you need a [GitHub.com account](http://github.com) and Internet access. You don’t need to know how to code, use the command line, or install Git (the version control software GitHub is built on).
+### Table of Contents 
 
-> **Tip:** Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial.
+1. [Introduction](#introduction)
+2. [What will you Learn?](#youll-learn-how-to)
+3. [What is GitHub?](#what-is-github-)
+4. [No Coding Necessary](#no-coding-necessary-)
+5. [How to start?](#how-to-start--)
+6. [Why this Training](#-why-this-training)
+7. [License](#-license)
+8. [Star this Repo](#-star-this-repository)
+9. [Celebrate!](#celebrate-)
 
-## Step 1\. Create a Repository
+---
 
-A **repository** is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a _README_, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository.
+## Introduction
 
-Your `hello-CodeCosmers` repository can be a place where you store ideas, resources, or even share and discuss things with others.
+- The **Hello World** project Training is hosted by **Shreya Malogi** , is a time-honored tradition in computer programming. It is a simple exercise that gets you started when learning something new. Let’s get started with GitHub! 🌐
 
-### To create a new repository
+- By the end of this training, you will be able to make your own Codecosmers rep0,
 
-1.  In the upper right corner, next to your avatar or identicon, click <span class="octicon octicon-plus"></span>and then select **New repository**.
-2.  Name your repository `hello-CodeCosmers`.
-3.  Write a short description.
-4.  Select **Initialize this repository with a README**.
+- **P.S** : CodeCosmers are the Stakeholders in Codemacrocosm
+  
+- Enjoy your journey into GitHub! 🚀✨
 
-![new-repo-form](/images/create-new-repo.png)
+## You’ll learn how to 
 
-Click **Create repository**.
+- Create and use a repository 📁
+- Start and manage a new branch 🌿
+- Make changes to a file and push them to GitHub as commits 💻
+- Open and merge a pull request 🔄
 
-## Step 2\. Create a Branch
+## What is GitHub? 🤔
 
-**Branching** is the way to work on different versions of a repository at one time.
+GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere. 🌍
 
-By default your repository has one branch named `master` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to `master`.
+This tutorial teaches you GitHub essentials like _repositories_, _branches_, _commits_, and _Pull Requests_. You’ll create your own Hello CodeCosmers repository and learn GitHub’s Pull Request workflow, a popular way to create and review code. 📝
 
-When you create a branch off the `master` branch, you’re making a copy, or snapshot, of `master` as it was at that point in time. If someone else made changes to the `master` branch while you were working on your branch, you could pull in those updates.
+## No coding necessary 🚫
 
-This diagram shows:
+To complete this tutorial, you need a [GitHub.com account](http://github.com) and Internet access. You don’t need to know how to code, use the command line, or install Git (the version control software GitHub is built on). 🌐
 
-- The `master` branch
-- A new branch called `feature` (because we’re doing ‘feature work’ on this branch)
-- The journey that `feature` takes before it’s merged into `master`
+> **Tip:** Open this guide in a separate browser window (or tab) so you can see it while you complete the steps in the tutorial. 🌟
+>
 
-![a branch](/images/branching.png)
+# How to start?  📝
+
+<details>
+  
+<summary>Click here </summary>
+
+
+## Step 1\. Create a Repository 🚀
+
+A **repository** is usually used to organize a single project. Repositories can contain folders and files, images, videos, spreadsheets, and data sets – anything your project needs. We recommend including a _README_, or a file with information about your project. GitHub makes it easy to add one at the same time you create your new repository. 📁
+
+Your `hello-CodeCosmers` repository can be a place where you store ideas, resources, or even share and discuss things with others. 🤝
+
+-  To create a new repository 🌟
+
+1. In the upper right corner, next to your avatar or identicon, click <span class="octicon octicon-plus"></span>and then select **New repository**. 📅
+2. Name your repository `hello-CodeCosmers`. 🌐
+3. Write a short description. 📝
+4. Select **Initialize this repository with a README**. 📂
+
+![new-repo-form](/images/create-new-repo.png) 🚀
+
+Click **Create repository**. 🚀
+
+---
+
+## Step 2\. Create a Branch 🌿
+
+**Branching** is the way to work on different versions of a repository at one time. 🔄
+
+- By default, your repository has one branch named `master` which is considered to be the definitive branch. We use branches to experiment and make edits before committing them to `master`. 🎨
+
+- When you create a branch off the `master` branch, you’re making a copy, or snapshot, of `master` as it was at that point in time. If someone else made changes to the `master` branch while you were working on your branch, you could pull in those updates. 🔄
+
+- This diagram shows:
+
+- The `master` branch 🌟
+- A new branch called `feature` (because we’re doing ‘feature work’ on this branch) 🌟
+- The journey that `feature` takes before it’s merged into `master` 🌟
+
+![a branch](/images/branching.png) 🌿
 
 Have you ever saved different versions of a file? Something like:
 
-- `story.txt`
-- `story-5hre9a-edit.txt`
-- `story-5hre9a-edit-reviewed.txt`
+- `story.txt` 📖
+- `story-shreya-edit.txt` ✏️
+- `story-shreya-edit-reviewed.txt` 📝
 
-Branches accomplish similar goals in GitHub repositories.
+Branches accomplish similar goals in GitHub repositories. 🌟
 
-Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our `master` (production) branch. When a change is ready, they merge their branch into `master`.
+- Here at GitHub, our developers, writers, and designers use branches for keeping bug fixes and feature work separate from our `master` (production) branch. When a change is ready, they merge their branch into `master`. 🤝
 
-### To create a new branch
+- To create a new branch 🌿
 
-1.  Go to your new repository `hello-CodeCosmers`.
-2.  Click the drop down at the top of the file list that says **branch: master**.
-3.  Type a branch name, `readme-edits`, into the new branch text box.
-4.  Select the blue **Create branch** box or hit “Enter” on your keyboard.
+1. Go to your new repository `hello-CodeCosmers`. 🚀
+2. Click the drop down at the top of the file list that says **branch: master**. 🌿
+3. Type a branch name, `readme-edits`, into the new branch text box. 📝
+4. Select the blue **Create branch** box or hit “Enter” on your keyboard. 🚀
 
-![branch gif](/images/readme-edits.gif)
+![branch gif](/images/readme-edits.gif) 🌟
 
-Now you have two branches, `master` and `readme-edits`. They look exactly the same, but not for long! Next we’ll add our changes to the new branch.
+- Now you have two branches, `master` and `readme-edits`. They look exactly the same, but not for long! Next, we’ll add our changes to the new branch. 🌟
 
-## Step 3\. Make and commit changes
+---
 
-Bravo! Now, you’re on the code view for your `readme-edits` branch, which is a copy of `master`. Let’s make some edits.
+#### Step 3\. Make and commit changes 📝
 
-On GitHub, saved changes are called _commits_. Each commit has an associated _commit message_, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why.
+- Bravo! Now, you’re on the code view for your `readme-edits` branch, which is a copy of `master`. Let’s make some edits. 💻
 
-#### Make and commit changes
+- On GitHub, saved changes are called _commits_. Each commit has an associated _commit message_, which is a description explaining why a particular change was made. Commit messages capture the history of your changes, so other contributors can understand what you’ve done and why. 📜
 
-1.  Click the `README.md` file.
-2.  Click the <span class="octicon octicon-pencil"></span>pencil icon in the upper right corner of the file view to edit.
-3.  In the editor, write a bit about yourself.
-4.  Write a commit message that describes your changes.
-5.  Click **Commit changes** button.
+ - Make and commit changes 📝
 
-![commit](/images/commit.png)
+- 1. Click the `README.md` file. 📖
+     
+- 2. Click the <span class="octicon octicon-pencil"></span>pencil icon in the upper right corner of the file view to edit. ✏️
+     
+- 3. In the editor, write a bit about yourself. 🤖
+     
+- 4. Write a commit message that describes your changes. 📝
+     
+- 5. Click **Commit changes** button. 🚀
 
-These changes will be made to just the README file on your `readme-edits` branch, so now this branch contains content that’s different from `master`.
+![commit](/images/commit.png) 🌟
 
-## Step 4\. Open a Pull Request
+- These changes will be made to just the README file on your `readme-edits` branch, so now this branch contains content that’s different from `master`. 🌟
 
-Nice edits! Now that you have changes in a branch off of `master`, you can open a _pull request_.
+---
 
-Pull Requests are the heart of collaboration on GitHub. When you open a _pull request_, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show _diffs_, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red.
+## Step 4\. Open a Pull Request 🔄
 
-As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished.
+- Nice edits! Now that you have changes in a branch off of `master`, you can open a _pull request_. 🌟
 
-By using GitHub’s [@mention system](https://help.github.com/articles/about-writing-and-formatting-on-github/#text-formatting-toolbar) in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away.
+- Pull Requests are the heart of collaboration on GitHub. When you open a _pull request_, you’re proposing your changes and requesting that someone review and pull in your contribution and merge them into their branch. Pull requests show _diffs_, or differences, of the content from both branches. The changes, additions, and subtractions are shown in green and red. 🌟
 
-You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects.
+- As soon as you make a commit, you can open a pull request and start a discussion, even before the code is finished. 🌟
 
-#### Open a Pull Request for changes to the README
+- By using GitHub’s [@mention system](https://help.github.com/articles/about-writing-and-formatting-on-github/#text-formatting-toolbar) in your pull request message, you can ask for feedback from specific people or teams, whether they’re down the hall or 10 time zones away. 🌟
 
-_Click on the image for a larger version_
+You can even open pull requests in your own repository and merge them yourself. It’s a great way to learn the GitHub Flow before working on larger projects. 🌟
+
+-  Open a Pull Request for changes to the README 📜
+
+_Click on the image for a larger version_ 🌟
 
 | Step                                                                                                                     | Screenshot                                             |
 | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------ |
@@ -117,35 +168,64 @@ _Click on the image for a larger version_
 | When you’re satisfied that these are the changes you want to submit, click the big green **Create Pull Request** button. | [![create-pull](/images/create-pr.png)](create-pr.png) |
 | Give your pull request a title and write a brief description of your changes.                                            | [![pr-form](/images/pr-form.png)](pr-form.png)         |
 
-When you’re done with your message, click **Create pull request**!
+- When you’re done with your message, click **Create pull request**! 🌟
 
 ---
 
-> **Tip**: You can use [emoji](https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji) and [drag and drop images and gifs](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/) onto comments and Pull Requests.
+> **Tip**: You can use [emoji](https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji) and [drag and drop images and gifs](https://help.github.com/articles/file-attachments-on-issues-and-pull-requests/) onto comments and Pull Requests. 🌟
 
-## Step 5\. Merge your Pull Request
+---
 
-In this final step, it’s time to bring your changes together – merging your `readme-edits` branch into the `master` branch.
+## Step 5\. Merge your Pull Request 🚀
 
-1.  Click the green **Merge pull request** button to merge the changes into `master`.
-2.  Click **Confirm merge**.
-3.  Go ahead and delete the branch, since its changes have been incorporated, with the **Delete branch** button in the purple box.
 
-![merge](/images/delete-button.png)
 
-### Celebrate!
+- In this final step, it’s time to bring your changes together – merging your `readme-edits` branch into the `master` branch. 🌟
 
-By completing this tutorial, you’ve learned to create a project and make a pull request on GitHub!
+1. Click the green **Merge pull request** button to merge the changes into `master`. 🔄
+2. Click **Confirm merge**. 🌟
+3. Go ahead and delete the branch, since its changes have been incorporated, with the **Delete branch** button in the purple box. ❌
 
-It's time for us to be prepared for HactoberFest2020.
+![merge](/images/delete-button.png) 🌟
+
+</details>
+
+
+
+## 🎯 Why This Training?
+
+Whether you're a coding novice or an experienced developer looking to enhance your GitHub skills, this hands-on experience is tailored to ensure effective learning. This training provides a comprehensive understanding of GitHub's fundamental concepts and workflows. From creating repositories to making pull requests, you'll gain practical insights that are valuable for both beginners and seasoned developers. Join us on this coding adventure and elevate your collaboration game! 🚀💻🌐📘🌟
+
+## 📜 License
+
+This repository is open-source and distributed under the MIT License. 
+
+MIT License
+
+Copyright (c) 2020 CodeMacrocosm
+
+
+## 🌟 Star This Repository
+
+If you find this training program helpful and valuable, don't forget to star this repository to show your support!
+
+### Celebrate! 🎉
+
+By completing this training, you’ve learned to create a project and make a pull request on GitHub! 🌟
 
 Here’s what you accomplished in this tutorial:
 
-- Created an open source repository
-- Started and managed a new branch
-- Changed a file and committed those changes to GitHub
-- Opened and merged a Pull Request
+- Created an open-source repository 📁
+- Started and managed a new branch 🌿
+- Changed a file and committed those changes to GitHub 💻
+- Opened and merged a Pull Request 🔄
 
-Take a look at your GitHub profile and you’ll see your new [contribution squares](https://help.github.com/articles/viewing-contributions)!
+Take a look at your GitHub profile, and you’ll see your new [contribution squares](https://help.github.com/articles/viewing-contributions)! 🌟
 
-To learn more about the power of Pull Requests, we recommend reading the [GitHub Flow Guide](http://guides.github.com/overviews/flow/). You might also visit [GitHub Explore](http://github.com/explore) and get involved in an Open Source project ![:octocat:](https://assets-cdn.github.com/images/icons/emoji/octocat.png ":octocat:")
+To learn more about the power of Pull Requests, we recommend reading the [GitHub Flow Guide](http://guides.github.com/overviews/flow/). You might also visit [GitHub Explore](http://github.com/explore) and get involved in an Open Source project 
+
+## 🚀 Let's Get Started!
+
+ We hope you find these resources engaging and beneficial. If you have any questions or suggestions, feel free to reach out.
+
+Happy Learning! 🌟
